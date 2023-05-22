@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class ZsLibimobiledeviceGlue < Formula
+class LibimobiledeviceGlue < Formula
   desc "Library with common system API code for libimobiledevice projects"
   homepage "https://www.libimobiledevice.org/"
   url "https://github.com/libimobiledevice/libimobiledevice-glue/releases/download/1.0.0/libimobiledevice-glue-1.0.0.tar.bz2"

@@ -4,7 +4,7 @@
 class LibimobiledeviceGlue < Formula
   desc "Library with common system API code for libimobiledevice projects"
   homepage "https://www.libimobiledevice.org/"
-  url "https://github.com/lhuaz/libimobiledevice-glue/archive/refs/tags/1.0.1.tar.gz"
+  url "https://github.com/lhuaz/libimobiledevice-glue/releases/download/1.0.1/libimobiledevice-glue-1.0.1.tar.bz2"
   license "LGPL-2.1-or-later"
 
   depends_on "pkg-config" => :build
